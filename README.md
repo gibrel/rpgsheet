@@ -1,2 +1,2 @@
-# rpgsheet_
-### a Sails application
+# RpgSheet
+# Still a shitty rpg sheet application LOL
