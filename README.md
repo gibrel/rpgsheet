@@ -1,2 +1,2 @@
 # RpgSheet
-# Still a shitty rpg sheet application LOL
+# a rpg sheety application LOL
